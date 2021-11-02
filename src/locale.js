@@ -122,6 +122,37 @@ const locale = {
     'sunny': 'Ясно',
     'windy': 'Ветрено',
     'windy-variant': 'Ветрено'
+  },
+  pl: {
+    'tempHi': 'Temperatura',
+    'tempLo': 'Temperatura w nocy',
+    'precip': 'Opady',
+    'units': {
+      'km/h': 'km/h',
+      'm/s': 'm/s',
+      'hPa': 'hPa',
+      'mmHg': 'mm Hg',
+      'mm': 'mm',
+      'in': 'in'
+    },
+    'cardinalDirections': [
+      'N', 'N-NE', 'NE', 'E-NE', 'E', 'E-SE', 'SE', 'S-SE',
+      'S', 'S-SW', 'SW', 'W-SW', 'W', 'W-NW', 'NW', 'N-NW', 'N'
+    ],
+    'clear-night': 'Bezchmurna noc',
+    'cloudy': 'Pochmurno',
+    'fog': 'Mgła',
+    'hail': 'Grad',
+    'lightning': 'Burze',
+    'lightning-rainy': 'Burze z deszczem',
+    'partlycloudy': 'Częściowe zachmurzenie',
+    'pouring': 'Ulewne deszcze',
+    'rainy': 'Opady deszczu',
+    'snowy': 'Opady śniegu',
+    'snowy-rainy': 'Opady śniegu z deszczem',
+    'sunny': 'Słonecznie',
+    'windy': 'Wietrznie',
+    'windy-variant': 'Wietrznie'
   }
 };
 
